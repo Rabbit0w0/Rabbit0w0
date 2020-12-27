@@ -5,7 +5,7 @@ I am Rabbit0w0, a front-end developer, and I'm currently working on some __Crazy
 - This is a blogging system, and I'm trying to make it a utility system
 - 🌱 I’m currently learning Go and Java
 - They are all good languages
-- 👯 I’m looking to collaborate on PHP blogging system
+- 👯 I’m looking for collaborate on PHP blogging system
 - Because I'm a noob
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
