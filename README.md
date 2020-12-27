@@ -18,3 +18,5 @@ I am Rabbit0w0, a front-end developer, and I'm currently working on some __Crazy
 Mail to: misterrabbit727@gmail.com
 
 QQ: 401395069 and the answer could be found at https://pubchem.ncbi.nlm.nih.gov/compound/73971#section=Physical-Description
+
+![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit0w0&show_icons=true&hide_border=true&theme=radical)
