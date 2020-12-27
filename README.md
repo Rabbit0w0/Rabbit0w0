@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rabbit0w0, a front-end developer, and I'm currently working on some __Crazy__ things!
+I am Rabbit0w0, a jobless, and I'm currently working on some __Crazy__ things!
 - 🔭 I’m currently working on Rabbit0w0/EdgeBB (Private for now)
 - This is a blogging system, and I'm trying to make it a utility system
 - 🌱 I’m currently learning Go and Java
