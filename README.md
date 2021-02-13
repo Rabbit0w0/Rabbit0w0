@@ -15,7 +15,7 @@ I am Rabbit0w0, a student, and I'm currently working on some __Crazy__ things!
 -->
 
 ### 📫 How to reach me
-Mail to: misterrabbit727@gmail.com
+Mail to: rabbit0w0@outlook.com
 
 QQ: 401395069 and the answer could be found at https://pubchem.ncbi.nlm.nih.gov/compound/73971#section=Physical-Description
 
