@@ -17,6 +17,6 @@ I am Rabbit0w0, a student, and I'm currently working on some __Crazy__ things!
 ### 📫 How to reach me
 Mail to: rabbit0w0@outlook.com
 
-QQ: 401395069 and the answer could be found at https://pubchem.ncbi.nlm.nih.gov/compound/73971#section=Physical-Description
+QQ: 401395069
 
 ![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit0w0&show_icons=true&hide_border=true&theme=radical)
