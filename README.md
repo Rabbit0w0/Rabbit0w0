@@ -1,18 +1,7 @@
 ### Hi there 👋
 
-I am Rabbit0w0, a student, and I'm currently working on some __Crazy__ things!
-<!-- - 🔭 I’m currently working on [Rabbit0w0/CloudEnterprise](https://github.com/Rabbit0w0/CloudEnterprise)
-- CHECK YOUR PERM
-- 🌱 I’m currently learning Go and Java
-- They are all good languages
-- 👯 I’m looking for collaborate on PHP blogging system
-- Because I'm a noob -->
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+这里是Rabbit0w0, 刚满15周岁, 正在学习Golang和Java.
+BTW IM A GIRL
 
 ### 📫 How to reach me
 Mail to: rabbit0w0@outlook.com
