@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-这里是Rabbit0w0, 刚满15周岁, 正在学习Golang和Java.
-BTW IM A GIRL
+15 y.o.
 
 ### 📫 How to reach me
 Mail to: rabbit0w0@outlook.com
