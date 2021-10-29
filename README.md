@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-15 y.o.
+15 y.o. Currently developing some projects for my school.
 
 ### 📫 How to reach me
 Mail to: rabbit0w0@outlook.com
