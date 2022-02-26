@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-15 y.o. Currently developing some projects for my school.
+- 这里是瑞秋酱, QQ: 401395069
+- 现在正在写Unity游戏以及一些网络开发工程
 
 ### 📫 How to reach me
 Mail to: rabbit0w0@outlook.com
