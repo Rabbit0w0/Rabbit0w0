@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 这里是瑞秋酱, QQ: 401395069
+- QQ: 401395069
 - 我是阿米娅头号舔狗
-- 现在正在写Unity游戏以及一些网络开发工程
+- working on security
 
 ### 📫 How to reach me
 Mail to: rabbit0w0@outlook.com
