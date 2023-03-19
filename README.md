@@ -2,7 +2,7 @@
 
 - QQ: 401395069
 - 我是阿米娅头号舔狗
-- working on security
+- 正在开发超级NB的Spigot插件
 
 ### 📫 How to reach me
 Mail to: rabbit0w0@outlook.com
