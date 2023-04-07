@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, It's Rabbit0w0
 
 - QQ: 401395069
 - 我是阿米娅头号舔狗
@@ -12,5 +12,3 @@ Mail to: rabbit0w0@outlook.com
 
 ### Counter
 ![Rabbit0w0](https://count.getloli.com/get/@Rabbit0w0)
-
-<!-- https://www.aliyundrive.com/s/dc9b7cQJHH8 -->
