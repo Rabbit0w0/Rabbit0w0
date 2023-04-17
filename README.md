@@ -1,8 +1,7 @@
 ### Hi there, It's Rabbit0w0
-
+I have been studying programming for 5 yrs. Currently in senior high school
 - QQ: 401395069
-- 我是阿米娅头号舔狗
-- 正在开发超级NB的Spigot插件
+- Developing some Spigot plugins
 
 ### 📫 How to reach me
 Mail to: rabbit0w0@outlook.com
