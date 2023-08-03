@@ -2,7 +2,7 @@
 Mail to: rabbit0w0@outlook.com
 
 ### 💻 Currently working on...
-- Several Android projects
+- Machine Learning
 - OpenGL
 
 ### Counter
