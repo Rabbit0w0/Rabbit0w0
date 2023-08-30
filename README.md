@@ -2,6 +2,7 @@
 Mail to: rabbit0w0@outlook.com
 
 ### 💻 Currently working on...
+- Several private projects.
 - Machine Learning
 - OpenGL
 
