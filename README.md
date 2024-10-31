@@ -21,7 +21,6 @@ Hey there! I'm a developer with a passion for exploring a wide variety of progra
 I often code to the beat of:
 - **Synthwave**
 - **Retrowave**
-- **Outrun**
 - **Darkwave**
 - **Chillwave**
 - **Vaporwave**
