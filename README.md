@@ -24,4 +24,4 @@ Hey there! I'm a developer with a passion for exploring a wide variety of progra
 
 Feel free to explore my repositories or reach out if you want to discuss anything tech-related or just want to make friends!
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Rabbit0w0?hide_border=true&theme=compact)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rabbit0w0&hide_border=true&theme=vue&layout=compact)
