@@ -23,3 +23,5 @@ Hey there! I'm a developer with a passion for exploring a wide variety of progra
 - **QQ**: `1649150418`
 
 Feel free to explore my repositories or reach out if you want to discuss anything tech-related or just want to make friends!
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Rabbit0w0?hide_border=true&theme=compact)
