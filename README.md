@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌟 Developer / Coder / Tech Explorer  
+  🌟 Student / Coder by Interest
 </p>
 
 ---
